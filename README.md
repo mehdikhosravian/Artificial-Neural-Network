@@ -1,2 +1,2 @@
 # Artificial-Neural-Network
-Applying ANN for a classification problem
+Applying Artificial Neural Network for a classification problem.
